@@ -1,0 +1,137 @@
+body {
+    background: #494949;
+}
+
+.wrapper{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    width: 1200px;
+    margin: 0 auto;
+    background-color: #f0efef;
+    box-shadow: 6px 6px 20px color(srgb red green blue);
+}
+aside{
+    width: 370px;
+    background-color: rgb(85, 131, 233);
+}
+
+.cv-photo{
+    margin: 25px 0 0 0;
+   
+}
+
+.header-secondary{
+    color: white;
+}
+
+.contacts-link{
+    color: white;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.bold{
+   font-weight: 700; 
+}
+
+.list-secondary{
+    color: rgb(248, 163, 4);
+    font-size: 14px;
+    line-height: 24px;
+    margin: 0;
+    padding-left: 0;
+    list-style-position: inside;
+}
+
+.list-secondary-item{
+    color: white;
+    font-size: 14px;
+    line-height: 24px;
+
+}
+
+.contact-block{
+    margin-top: 51px;
+    margin-left: 35px;
+}
+
+.contact-block-tech-skill{
+    margin-top: 47px;
+    margin-left: 40px;
+
+}
+
+main{
+    padding: 102px 88px 102px 88px ;
+}
+
+.main-description{
+    width: 400px;
+}
+
+.job-title{
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 17px;
+}
+h1{
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 55px;
+}
+
+.description{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: rgb(77, 77, 77);
+    margin-bottom: 40px;
+}
+
+.projects{
+    width: 485px;
+    margin-bottom: 51px;
+
+}
+
+.list-primary{
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: rgb(0, 0, 0);
+    padding-left: 0;
+    list-style-position: inside
+
+}
+
+.list-primary-item{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: rgb(63, 62, 62);
+    text-decoration: none;
+}
+
+.header-primary{
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    margin-bottom: 12px;
+}
+
+.job-position{
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.job-date{
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+}
+
+.head-name-discription{
+    font-size: 35px;
+}
